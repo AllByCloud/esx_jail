@@ -9,4 +9,6 @@ Caractéristiques
 # Commandes
   /jail [ID] [TEMPS] [RAISON] - Mettre quelqu'un en prison
   
-  Développé par _K0as
+Vous avez besoin d'aide ? https://discord.gg/5Ghvdqwhtu
+ 
+Développé par _K0as
